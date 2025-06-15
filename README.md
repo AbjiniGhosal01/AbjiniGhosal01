@@ -11,9 +11,10 @@
 
 ### 🛠️ Skills I'm Learning
 - 🔤 **Programming Languages:**  
-  - Java (beginner)  
+  - Java (intermediate)  
   - Python (basics – variables, loops, functions)  
   - C (procedural programming basics)
+  - C++ (beginner)
 
 - ⚙️ **Tools:** Git, GitHub, VS Code, basic terminal commands
 
